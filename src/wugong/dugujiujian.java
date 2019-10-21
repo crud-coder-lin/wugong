@@ -6,6 +6,7 @@ public class dugujiujian {
 		// TODO Auto-generated method stub
 		System.out.println("6666666666");
 		System.out.println("7777777777");
+		System.out.println("8888888888");
 
 	}
 
